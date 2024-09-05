@@ -30,5 +30,5 @@ This project provides a web application that fetches and displays weather inform
 1. **Clone the Repository**
 
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/Parag-Chaware/Weather-API
+   cd Weather-API
